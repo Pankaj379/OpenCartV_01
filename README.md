@@ -172,7 +172,7 @@ docker-compose down
 
 **Pankaj Bhardwaj**
 💼 QA Automation Engineer | SDET | Test Analyst
-📧 [[your.email@example.com](mailto:your.email@example.com)]
+📧 [[qapankaj379.com](mailto:your.email@example.com)]
 🔗 [LinkedIn](https://www.linkedin.com/in/pankaj-bhardwaj-90628010a)
 💻 [GitHub](https://github.com/Pankaj379)
 
