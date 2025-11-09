@@ -1,0 +1,276 @@
+23:58:35.173 [main] INFO  testCases.TC001_Account_Registration - *****Starting TC001_Account_Registration*****
+23:58:35.324 [main] INFO  testCases.TC001_Account_Registration - Clicked on MyAccount Link
+23:58:35.983 [main] INFO  testCases.TC001_Account_Registration - Clicked on Register Link
+23:58:35.986 [main] INFO  testCases.TC001_Account_Registration - Providing customer details.
+23:58:37.731 [main] INFO  testCases.TC001_Account_Registration - Validationg expected message.
+23:58:37.781 [main] ERROR testCases.TC001_Account_Registration - Test failed...
+23:58:37.781 [main] DEBUG testCases.TC001_Account_Registration - debug logs..
+00:00:08.160 [main] INFO  testCases.TC001_Account_Registration - *****Starting TC001_Account_Registration*****
+00:00:08.283 [main] INFO  testCases.TC001_Account_Registration - Clicked on MyAccount Link
+00:00:09.013 [main] INFO  testCases.TC001_Account_Registration - Clicked on Register Link
+00:00:09.016 [main] INFO  testCases.TC001_Account_Registration - Providing customer details.
+00:00:10.881 [main] INFO  testCases.TC001_Account_Registration - Validationg expected message.
+00:00:10.936 [main] INFO  testCases.TC001_Account_Registration - *****Finished the TC001_Account_Registration*****
+06:00:08.933 [main] INFO  testCases.TC001_Account_Registration - *****Starting TC001_Account_Registration*****
+06:00:09.270 [main] INFO  testCases.TC001_Account_Registration - Clicked on MyAccount Link
+06:00:09.933 [main] INFO  testCases.TC001_Account_Registration - Clicked on Register Link
+06:00:09.936 [main] INFO  testCases.TC001_Account_Registration - Providing customer details.
+06:00:12.212 [main] INFO  testCases.TC001_Account_Registration - Validationg expected message.
+06:00:12.324 [main] INFO  testCases.TC001_Account_Registration - *****Finished the TC001_Account_Registration*****
+06:06:41.314 [main] INFO  testCases.TC001_Account_Registration - *****Starting TC001_Account_Registration*****
+06:06:41.483 [main] INFO  testCases.TC001_Account_Registration - Clicked on MyAccount Link
+06:06:42.051 [main] INFO  testCases.TC001_Account_Registration - Clicked on Register Link
+06:06:42.055 [main] INFO  testCases.TC001_Account_Registration - Providing customer details.
+06:06:43.798 [main] INFO  testCases.TC001_Account_Registration - Validationg expected message.
+06:06:43.860 [main] INFO  testCases.TC001_Account_Registration - *****Finished the TC001_Account_Registration*****
+06:06:52.630 [main] INFO  testCases.TC001_Account_Registration - *****Starting TC001_Account_Registration*****
+06:06:52.932 [main] INFO  testCases.TC001_Account_Registration - Clicked on MyAccount Link
+06:06:53.708 [main] INFO  testCases.TC001_Account_Registration - Clicked on Register Link
+06:06:53.708 [main] INFO  testCases.TC001_Account_Registration - Providing customer details.
+06:06:55.620 [main] INFO  testCases.TC001_Account_Registration - Validationg expected message.
+06:06:55.684 [main] INFO  testCases.TC001_Account_Registration - *****Finished the TC001_Account_Registration*****
+06:07:07.675 [main] INFO  testCases.TC001_Account_Registration - *****Starting TC001_Account_Registration*****
+06:07:07.918 [main] INFO  testCases.TC001_Account_Registration - Clicked on MyAccount Link
+06:07:08.748 [main] INFO  testCases.TC001_Account_Registration - Clicked on Register Link
+06:07:08.753 [main] INFO  testCases.TC001_Account_Registration - Providing customer details.
+06:07:10.709 [main] INFO  testCases.TC001_Account_Registration - Validationg expected message.
+06:07:10.764 [main] INFO  testCases.TC001_Account_Registration - *****Finished the TC001_Account_Registration*****
+06:09:59.728 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration - *****Starting TC001_Account_Registration*****
+06:10:00.112 [TestNG-tests-3] INFO  testCases.TC001_Account_Registration - *****Starting TC001_Account_Registration*****
+06:10:00.304 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration - Clicked on MyAccount Link
+06:10:00.560 [TestNG-tests-3] INFO  testCases.TC001_Account_Registration - Clicked on MyAccount Link
+06:10:02.691 [TestNG-tests-3] INFO  testCases.TC001_Account_Registration - Clicked on Register Link
+06:10:02.689 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration - Clicked on Register Link
+06:10:02.790 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration - Providing customer details.
+06:10:02.816 [TestNG-tests-3] INFO  testCases.TC001_Account_Registration - Providing customer details.
+06:10:08.321 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration - Validationg expected message.
+06:10:08.416 [TestNG-tests-3] INFO  testCases.TC001_Account_Registration - Validationg expected message.
+06:10:08.501 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration - *****Finished the TC001_Account_Registration*****
+06:10:08.535 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration - *****Starting TC001_Account_Registration*****
+06:10:08.542 [TestNG-tests-3] INFO  testCases.TC001_Account_Registration - *****Finished the TC001_Account_Registration*****
+06:10:08.902 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration - Clicked on MyAccount Link
+06:10:09.591 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration - Clicked on Register Link
+06:10:09.599 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration - Providing customer details.
+06:10:11.983 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration - Validationg expected message.
+06:10:12.128 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration - *****Finished the TC001_Account_Registration*****
+06:11:55.737 [main] INFO  testCases.TC001_Account_Registration - *****Starting TC001_Account_Registration*****
+06:11:55.980 [main] INFO  testCases.TC001_Account_Registration - Clicked on MyAccount Link
+06:11:56.525 [main] INFO  testCases.TC001_Account_Registration - Clicked on Register Link
+06:11:56.527 [main] INFO  testCases.TC001_Account_Registration - Providing customer details.
+06:11:57.290 [main] INFO  testCases.TC001_Account_Registration - Validationg expected message.
+06:11:58.521 [main] INFO  testCases.TC001_Account_Registration - *****Finished the TC001_Account_Registration*****
+06:13:20.054 [main] INFO  testCases.TC001_Account_Registration - *****Starting TC001_Account_Registration*****
+06:13:20.246 [main] INFO  testCases.TC001_Account_Registration - Clicked on MyAccount Link
+06:13:20.854 [main] INFO  testCases.TC001_Account_Registration - Clicked on Register Link
+06:13:20.858 [main] INFO  testCases.TC001_Account_Registration - Providing customer details.
+06:13:22.763 [main] INFO  testCases.TC001_Account_Registration - Validationg expected message.
+06:13:22.832 [main] INFO  testCases.TC001_Account_Registration - *****Finished the TC001_Account_Registration*****
+06:13:42.135 [TestNG-tests-3] INFO  testCases.TC001_Account_Registration - *****Starting TC001_Account_Registration*****
+06:13:42.150 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration - *****Starting TC001_Account_Registration*****
+06:13:42.427 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration - Clicked on MyAccount Link
+06:13:42.563 [TestNG-tests-3] INFO  testCases.TC001_Account_Registration - Clicked on MyAccount Link
+06:13:43.790 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration - Clicked on Register Link
+06:13:43.798 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration - Providing customer details.
+06:13:43.959 [TestNG-tests-3] INFO  testCases.TC001_Account_Registration - Clicked on Register Link
+06:13:43.963 [TestNG-tests-3] INFO  testCases.TC001_Account_Registration - Providing customer details.
+06:13:46.849 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration - Validationg expected message.
+06:13:47.083 [TestNG-tests-1] INFO  testCases.TC001_Account_Registration - *****Finished the TC001_Account_Registration*****
+06:13:47.135 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration - *****Starting TC001_Account_Registration*****
+06:13:47.261 [TestNG-tests-3] INFO  testCases.TC001_Account_Registration - Validationg expected message.
+06:13:47.399 [TestNG-tests-3] INFO  testCases.TC001_Account_Registration - *****Finished the TC001_Account_Registration*****
+06:13:47.578 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration - Clicked on MyAccount Link
+06:13:48.206 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration - Clicked on Register Link
+06:13:48.206 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration - Providing customer details.
+06:13:49.572 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration - Validationg expected message.
+06:13:49.621 [TestNG-tests-2] INFO  testCases.TC001_Account_Registration - *****Finished the TC001_Account_Registration*****
+06:37:33.330 [main] INFO  testCases.TC001_Account_Registration - *****Starting TC001_Account_Registration*****
+06:37:33.483 [main] INFO  testCases.TC001_Account_Registration - Clicked on MyAccount Link
+06:37:34.255 [main] INFO  testCases.TC001_Account_Registration - Clicked on Register Link
+06:37:34.258 [main] INFO  testCases.TC001_Account_Registration - Providing customer details.
+06:37:36.315 [main] INFO  testCases.TC001_Account_Registration - Validationg expected message.
+06:37:36.370 [main] INFO  testCases.TC001_Account_Registration - *****Finished the TC001_Account_Registration*****
+23:17:24.753 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
+23:17:26.482 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest *****
+23:31:21.063 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:31:21.071 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:31:21.074 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:31:21.554 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:31:21.663 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:31:21.665 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:31:21.667 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:31:21.692 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:31:21.720 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:31:21.723 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:31:21.725 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:31:21.748 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:31:21.778 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:31:21.780 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:31:21.781 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:31:21.797 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:31:21.812 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:31:21.814 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:31:21.815 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:31:21.827 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:31:21.839 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:31:21.841 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:31:21.843 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:31:21.855 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:31:21.869 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:31:21.871 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:31:21.872 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:31:21.885 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:31:21.898 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:31:21.900 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:31:21.901 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:31:21.913 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:31:21.925 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:31:21.926 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:31:21.927 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:31:21.939 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:31:21.954 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:31:21.955 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:31:21.956 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:31:21.967 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:31:21.982 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:31:21.984 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:31:21.985 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:31:21.997 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:31:22.008 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:31:22.010 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:31:22.011 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:31:22.020 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:31:22.030 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:31:22.031 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:31:22.032 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:31:22.042 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:31:22.056 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:31:22.058 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:31:22.059 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:31:22.071 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:31:22.084 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:31:22.086 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:31:22.087 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:31:22.097 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:31:22.109 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:31:22.111 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:31:22.112 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:31:22.122 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:31:22.138 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:31:22.139 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:31:22.140 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:31:22.149 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:31:22.160 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:31:22.160 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:31:22.161 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:31:22.171 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:31:22.184 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:31:22.186 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:31:22.187 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:31:22.196 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:31:22.207 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:31:22.208 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:31:22.209 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:31:22.220 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:31:22.246 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+23:31:34.451 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+23:31:39.571 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+23:31:39.573 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+23:31:44.805 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+23:31:44.805 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+23:31:59.200 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+23:31:59.200 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+23:32:04.389 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+23:32:04.389 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+23:32:18.816 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+23:36:44.367 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:36:44.373 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:36:44.377 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:36:44.720 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:36:44.795 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:36:44.797 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:36:44.799 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:36:44.816 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:36:44.831 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:36:44.833 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:36:44.834 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:36:44.848 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:36:44.875 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:36:44.878 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:36:44.881 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:36:44.898 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:36:44.915 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:36:44.917 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:36:44.919 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:36:44.935 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:36:44.953 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:36:44.955 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:36:44.957 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:36:44.969 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:36:44.985 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:36:44.987 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:36:44.989 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:36:45.004 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:36:45.019 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:36:45.021 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:36:45.022 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:36:45.034 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:36:45.050 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:36:45.051 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:36:45.053 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:36:45.067 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:36:45.081 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:36:45.082 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:36:45.083 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:36:45.095 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:36:45.109 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:36:45.110 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:36:45.112 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:36:45.124 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:36:45.138 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:36:45.151 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:36:45.152 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:36:45.162 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:36:45.180 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:36:45.182 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:36:45.183 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:36:45.197 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:36:45.213 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:36:45.215 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:36:45.216 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:36:45.229 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:36:45.245 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:36:45.246 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:36:45.248 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:36:45.260 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:36:45.276 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:36:45.277 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:36:45.278 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:36:45.297 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:36:45.317 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:36:45.318 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:36:45.320 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:36:45.333 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:36:45.350 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:36:45.351 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:36:45.353 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:36:45.363 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:36:45.378 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:36:45.380 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:36:45.381 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:36:45.394 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:36:45.407 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:36:45.409 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:36:45.410 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:36:45.422 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:36:45.449 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+23:36:50.575 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+23:36:50.575 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+23:36:55.762 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+23:36:55.762 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+23:37:01.604 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+23:37:01.608 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+23:37:15.413 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+23:37:15.415 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+23:37:20.544 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+23:37:20.547 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+23:37:34.938 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
